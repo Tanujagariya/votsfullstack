@@ -1,17 +1,25 @@
 #include<stdio.h>
+
 int main()
 {
-    int number;
+    int number[5];
     printf("enter the number");
-    for (int i = 0; i < 2; i++)
+    for (int i = 0; i < 5; i++)
     {
-        scanf("%d",number);
+        scanf("%d",&number[i]);
     }
-    for (int i = 0; i < 3; i++)
+    for (int i = 0; i < 5; i++)
     {
-        printf("%d",number);
+        printf("%d",number[i]);
     }
     return 0;
+
+
     
     
+
+
+
+
 }
+
