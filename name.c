@@ -1,17 +1,13 @@
 #include<stdio.h>
 int main()
 {
-    int number;
-    printf("enter the number");
-    for (int i = 0; i < 2; i++)
+    char name[5];
+    printf("enter your name");
+    scanf("%s",&name);
+    for (int i = 0; i <10; i++)
     {
-        scanf("%d",number);
-    }
-    for (int i = 0; i < 3; i++)
-    {
-        printf("%d",number);
+        printf("\t%s",name);
     }
     return 0;
-    
     
 }
