@@ -6,7 +6,7 @@ int main()
     scanf("%s",&name);
     for (int i = 0; i <10; i++)
     {
-        printf("\t%s",name);
+        printf("\n%s",name);
     }
     return 0;
     
