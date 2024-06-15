@@ -9,6 +9,7 @@ int main()
     {
         printf("%s\t",x);
     }
+
     return 0;
     
 }
