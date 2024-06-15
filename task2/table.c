@@ -1,16 +1,14 @@
 #include<stdio.h>
 int main()
 {
-    int num;
-    int i;
+    int x;
     printf("enter any number");
-    scanf("%d",&num);
-    for (int i = 0; i <= 10; i++)
+    scanf("%d",&x);
+    for (int  i = 0; i<=10 ; i++)
     {
-       int  c=num*i;
-        printf("%d*%d=%d",num, i,c);
+    int y=x*i;
+    printf("\n%d*%d=%d",x,i,y);
     }
-
-
     return 0;
+    
 }
