@@ -20,6 +20,11 @@ int main()
         printf("\nstore in secondarray%d ",secondarray[i]);
     }
     return 0;
+<<<<<<< HEAD
+
+    
+=======
+>>>>>>> main
     
     
     
