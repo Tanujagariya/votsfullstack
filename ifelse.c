@@ -11,7 +11,10 @@ int main()
     {
    printf("%d\n",i);
     }
+<<<<<<< HEAD
     
+=======
+>>>>>>> main
   }
   return 0;
     

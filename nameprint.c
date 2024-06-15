@@ -12,5 +12,8 @@ int main()
 
     return 0;
     
+<<<<<<< HEAD
     
+=======
+>>>>>>> main
 }
