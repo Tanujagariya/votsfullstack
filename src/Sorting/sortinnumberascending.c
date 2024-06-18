@@ -4,7 +4,7 @@ int main()
     int num[8]={50,33,40,90,20,100,55,109};
     int i;
     int order =0;
-    printf("\ntotal number\t");
+    printf("\n total number \n");
  
  for ( i = 0; i < 8; i++)
 {
@@ -26,7 +26,7 @@ for ( int k = i+1; k < 8; k++)
 
     
 }
-printf("\nascending order is \t");
+printf("\n ascending order is \n");
 for ( i = 0; i < 8; i++)
 
 
